@@ -15,9 +15,9 @@ Just a very simple project where I used React-ChartJS which is a ReactJS library
 
 ![React with ChartJS](https://res.cloudinary.com/practicaldev/image/fetch/s--axDTZarn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xbj4u3ql8kboit8epb43.png)
 
-<b>The Link:</b> https://react-chartjs-2.js.org/ [official documentation]
+<b>The official documentation:</b> https://react-chartjs-2.js.org/
 
-<b>via npm</b>
+<b>via npm</b><br/>
 <code>npm i chart.js react-chartjs-2</code><br/>
-<b>via yarn</b>
+<b>via yarn</b><br/>
 <code>yarn add chart.js react-chartjs-2</code><br/>
