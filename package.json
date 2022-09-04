@@ -32,8 +32,5 @@
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.10.1"
-  },
-  "bin": {
-    "react-boilerplate": "./bin/start.js"
   }
 }

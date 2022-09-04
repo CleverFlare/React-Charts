@@ -1,8 +1,0 @@
-{
-  "short_name": "Flare React App",
-  "name": "React Biolerplate",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000",
-  "background-color": "#fff"
-}
